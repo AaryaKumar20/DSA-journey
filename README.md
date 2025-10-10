@@ -3,7 +3,7 @@ My consistent journey to master Data Structures and Algorithms using C++
 Commits, problems, learning — everything will be public here.
 
 
-#🎯 Goal
+- # 🎯 Goal
 - Solve at least **1 medium/hard problem** weekly  
 - Build consistency >= **30 days streak**  
 - Understand core patterns (two pointers, sliding window, recursion, DP)  
